@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @roro02100
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-roro02100/roro02100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @roro02100 from France,sorry!
+- 👀 I’m interested by basic computer skills 
+- 🌱 I’m currently learning ...slowly, I'm French and not very young 
+- 💞️ I’m looking to collaborate on ...all except german stuff 
+- 📫 How to reach the end of this first lesson which already seems very complicated 
+-🥇 to reach like to joign or like an objective 
+- 💤 I Dream of à French GitHub 
+- 🐱 i have a 22 year old cat who proves you can be a motherfucker all your life ... and even if you see more where you are going 
+- 👌 He remains the most gifted of the two of us in computers despite his age.
+- ⏰ I'm late for my working day 
+- 🤧I am vaccinated against the communist 19.
